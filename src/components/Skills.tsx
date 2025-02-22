@@ -6,7 +6,7 @@ const skills = [
   {
     category: 'Frontend Development',
     icon: Globe,
-    skills: ['React', 'TypeScript', 'Next.js', 'Tailwind CSS', 'Redux'],
+    skills: ['React', 'Vue.js', 'Angular','TypeScript', 'Next.js', 'Tailwind CSS', 'Redux'],
   },
   {
     category: 'Backend Development',
@@ -16,7 +16,7 @@ const skills = [
   {
     category: 'Database',
     icon: Database,
-    skills: ['PostgreSQL', 'MongoDB', 'Redis', 'Firebase'],
+    skills: ['PostgreSQL', 'MongoDB', '', 'Firebase'],
   },
   {
     category: 'DevOps',
@@ -31,7 +31,7 @@ const skills = [
   {
     category: 'Design',
     icon: Palette,
-    skills: ['Figma', 'Adobe XD', 'UI/UX', 'Responsive Design'],
+    skills: ['Figma', 'UI/UX', 'Responsive Design'],
   },
 ];
 
